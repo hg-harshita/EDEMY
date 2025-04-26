@@ -1,0 +1,6 @@
+first in database there should be a user
+one admin user can create another admin, operator
+so first admin is needed in the database compulsory to authenticate
+
+//make some changes and commit again to redploy or you can also use vercel cli to redploy
+//changing version of node js from 20 to 18 solves the 500 internal server error in vercel
